@@ -2,6 +2,8 @@
 
 Examples of 10 basic motion using animations(most likely) for best UX.
 
+![alt text](https://cdn-images-1.medium.com/max/1500/1*FQwVeyJ8pxngEGAxruGW-A.jpeg)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
